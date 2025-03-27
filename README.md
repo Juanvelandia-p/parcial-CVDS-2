@@ -8,3 +8,8 @@ Las pruebas en jacoco estan al:
 
 Funcionamiento en Postman
 ![alt text](/imagenes/postman.png)
+
+Despliegue con integracion CI/CD
+![alt text](image.png)
+
+Y en este proyecto se usaron Java Springboot, debido a la falta de front, el uso de postman y las pruebas unitarias hablan en favor del funcionamiento de la aplicacion
